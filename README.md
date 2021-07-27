@@ -9,5 +9,5 @@
 1. I intend to apply the things what i learn over time. This code starts simple and i will improve it little by little.
 2. I just want to improve my coding skills and anyone is willing to give me tips and suggestionos to improve my code, i will be grateful.
 
-- FIRST COMMIT:
-1. This first code is composed of functions in a single class. I will implement the classes later.
+- CLARIFICATION:
+1. Each commit is commented out to explain something.
